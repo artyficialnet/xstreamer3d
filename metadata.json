@@ -1,0 +1,11 @@
+{
+  "name": "XStreamX",
+  "description": "Videollamada grupal con captura facial en tiempo real mediante MediaPipe y avatares expresivos",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
